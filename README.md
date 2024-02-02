@@ -1,6 +1,6 @@
 # UpgradeNotifier.sh
 is a simple script to notify you about updates on your system.
-
+![This is how the email looks currently.](https://github.com/jamieahelmke/UpgradeNotifier.sh/blob/main/email.jpg?raw=true)
 ## Current Features
 - some simple arguments/flags
 - counts the packages via repository
